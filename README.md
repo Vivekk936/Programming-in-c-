@@ -1,2 +1,5 @@
 # Programming-in-c-
-These are common programs of C language which include if else switch and loops pattern to make you understand the full process.
+Project Title:C Programs
+
+This contain c common programs useful for further large processes.
+
