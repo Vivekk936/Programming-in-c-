@@ -9,9 +9,11 @@ void main()
          {
     printf("Vowel");
         }
-else{
+else
+    {
     printf("Consonant");
-}
+    }
 
   
+
 }
